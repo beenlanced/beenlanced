@@ -40,7 +40,7 @@ I'm a data scientist, innovator, and researcher who enjoys cooking up data magic
 
 - `Artificial Intelligence (AI) Frameworks:` Hugging Face, Keras, Langchain, PyTorch (Lightning), TensorFlow
 
-- `Cloud Platforms:` Akamai/Linode, `AWS, Azure, GCP`
+- `Cloud Platforms:` Akamai/Linode, AWS, `Azure, GCP`
 
 - `Collaborative Software:` Atlassian (Confluence), Google Docs, Microsoft 360, Miro, Slack
 
@@ -48,7 +48,7 @@ I'm a data scientist, innovator, and researcher who enjoys cooking up data magic
 
 - `Data Engineering:` Elasticsearch, Redis, SQL(MySQL, PostgreSQL, Snowflake)
 
-- `Deep Learning (DL):` Convolutional Neural Networks (CNNs), Generative Adversarial Networks, (GANs), `Latent Space`, Long Short-Term memory (LSTM), Recurrent Neural Networks (RNNs), Transformers
+- `Deep Learning (DL):` Convolutional Neural Networks (CNNs), Generative Adversarial Networks, (GANs), Latent Space, Long Short-Term memory (LSTM), Recurrent Neural Networks (RNNs), Transformers
 
 - `Development Operations (DevOps):` Coverage, Continuous Integration/ Continuous Deployment (CI/CD), Julia Testing, Linux, Pytest, Ruff, uv
 
@@ -100,7 +100,7 @@ My public, open source projects can be found in these repositories. Give a proje
 | [Binary Classifier - Predicting Deaths on the Titanic](https://github.com/beenlanced/binary_classifer_predicting_titanic_deaths)                                                    | AUC<br>Confusion Matrix<br>EDA<br>Github<br>GridSearchCV<br>Jupyter<br>Logistic<br>Matplotlib<br>Numpy<br>Pandas<br>Python<br>ROC<br>Seaborn<br>Scikit-learn<br>Statistics<br>uv<br>Visual Studio Code |               |  | Learning Module for Technical Presentation                                                                                                                                           |
 | [Time Series XGBoost Forecasting Megawatt Hour Usage Application (end-to-end)](https://github.com/beenlanced/ts_forecasting_project_dominion_energy_mw)                                                      | AWS-ECS<br>Cross Validation<br>Docker<br>EDA<br>FastAPI<br>Github<br>HTML<br>Jupyter<br>Matplotlib<br>NumPy<br>Pandas<br>Pytest<br>Python<br>Ruff<br>Scikit-learn<br>Time Series<br>uv<br>YAML                                                                                                            |     AWS          |  FastAPI  | Cloud Computing<br>CI/CD (Github Actions)<br>Containerization<br>Data Validation<br>Error Handling<br>Linting<br>Model Registry<br>Model/Data Monitoring<br>Data Validation<br>Type Hinting |
 | [Regression Analysis Car MPG Project: Linear and Quantile Regressions in Julia Programming](https://github.com/beenlanced/ml_project_car_mpg_prediction_regressions) | Github<br>Julia<br>Jupyter<br>Matplotlib<br>R<br>Scikit-learn<br>Statistics<br>Visual Studio Code                                                             |               |         | Learning Module for Technical Presentation                                                                                                                                           |
-| [Julia ML Project to Production Programming](https://github.com/beenlanced/julia_learning_ml_model_to_production)                                                    | Bash Shell<br>Docker<br>Github<br>HTML<br>Julia<br>Jupyter<br>Linux<br>Matplotlib<br>Scikit-learn<br>BASH Shell<br>Statistics<br>Ubuntu<br>Visual Studio Code |               | Gene.jl | Learning Module for Technical Presentation                                                                                                                                           |
+| [Julia ML Project to Production Programming](https://github.com/beenlanced/julia_learning_ml_model_to_production)                                                    | Bash Shell<br>Docker<br>Github<br>HTML<br>Julia<br>Jupyter<br>Linux<br>Matplotlib<br>Scikit-learn<br>Statistics<br>Ubuntu<br>Visual Studio Code |               | Gene.jl | Learning Module for Technical Presentation                                                                                                                                           |
 | **Miscellaneous**                                                                                                                                                    |
 | [Review of Python Classes and Instances Essentially Object Oriented Python (OOP)](https://github.com/beenlanced/python_learning_oop_refresher)                               | Github<br>Jupyter<br>Python<br>uv<br>Visual Studio Code |               |         | Learning Module for Practice/Review                    |
 
