@@ -68,7 +68,7 @@ I'm a data scientist, innovator, and researcher who enjoys cooking up data magic
 
 - `Web Analysis:` Real User Monitoring (RUM) - mPulse
 
-- `Web Frameworks:` FastAPI, Flask, Genie.jl
+- `Web Frameworks:` FastAPI, Flask, Genie.jl, Streamlit
 
 - `Wireless Sensor Networks:` IEEE 802.15.4, Internet of Things (IoT), SmartGrid, ZigBee Networks
 
