@@ -40,25 +40,29 @@ I'm a data scientist, innovator, and researcher who enjoys cooking up data magic
 
 - `Artificial Intelligence (AI) Frameworks:` Hugging Face, Keras, Langchain, PyTorch (Lightning), TensorFlow
 
+- `Artificial Intelligence (AI) Agent Frameworks:` LangGraph, LlamaIndex, Smolagents
+
 - `Cloud Platforms:` Akamai/Linode, AWS, `Azure, GCP`
 
 - `Collaborative Software:` Atlassian (Confluence), Google Docs, Microsoft 360, Miro, Slack
 
 - `CyberSecurity:` Distributed Denial of Service (DDoS) (Flow Based Monitoring (FBM) - NetFlow, sFlow )
 
-- `Data Engineering:` Elasticsearch, Redis, SQL(MySQL, PostgreSQL, Snowflake)
+- `Data Engineering:` Elasticsearch, Redis, SQL(MySQL, PostgreSQL, Snowflake), Supabase
 
 - `Deep Learning (DL):` Convolutional Neural Networks (CNNs), Generative Adversarial Networks, (GANs), Latent Space, Long Short-Term memory (LSTM), Recurrent Neural Networks (RNNs), Transformers
 
 - `Development Operations (DevOps):` Coverage, Continuous Integration/ Continuous Deployment (CI/CD), Julia Testing, Linux, Pytest, Ruff, uv
 
-- `Generative AI:` Fine Tuning (LoRA Adapters), Large Language Models (LLM), Retrieval Augmented Generation (RAG)
+- `Generative AI:` Fine Tuning (LoRA Adapters), Large Language Models (LLM), Ollama, Retrieval Augmented Generation (RAG)
 
 - `Machine Learning (ML) / Data Science:` Anomaly Detection of Time Series Data, Classification, Clustering (DBSCAN, K-means, K-nearest neighbors), Data Sampling, Dimensionality Reduction (`Latent Spaces`, `Linear Discriminant Analysis` (LDA) Principal Component Analysis (PCA)), Exploratory Data Analysis, Linear Regression, Natural Language Processing (NLP), Quantile Regression, Random Forests, Sentiment Analysis, Time Series Analysis, Tuning, XGBoost
 
 - `ML Frameworks:` Flux.jl, Matplotlib, Numpy, Pandas, Seaborn, Scikit-learn
 
 - `ML Operations (MLOps):` Docker, Kubernetes
+
+- `Observability:` Langfuse, OpenTelemetry 
 
 - `Programming Languages:` Julia, MATLAB, Python, R
 
@@ -68,7 +72,7 @@ I'm a data scientist, innovator, and researcher who enjoys cooking up data magic
 
 - `Web Analysis:` Real User Monitoring (RUM) - mPulse
 
-- `Web Frameworks:` FastAPI, Flask, Genie.jl, Streamlit
+- `Web Frameworks:` FastAPI, Flask, Genie.jl, Gradio, Streamlit
 
 - `Wireless Sensor Networks:` IEEE 802.15.4, Internet of Things (IoT), SmartGrid, ZigBee Networks
 
@@ -85,6 +89,7 @@ My public, open source projects can be found in these repositories. Give a proje
 | Project Name                                                                                                                                                         | Main Libraries/Tools                                                                                                                                          | Cloud Service |   App   | DevOps Best Practices                                                                                                                                                                |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------: | :-----: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Artificial Intelligence (AI)**                                                                                                                                     |
+| [Hugging Face Agents Course](https://github.com/beenlanced/ai_agent_hugging_face_course.git)                                                      | ChatOllama<br>Embedding Model<br>Github<br>Gradio<br>Hugging Face<br>Jupyter<br>LangChain<br>Langfuse<br>Langgraph<br>LlamaIndex<br>NLP<br>Ollama<br>OpenTelemetry<br>Prompt Engineering<br>Python<br>RAG<br>smolagents<br>uv                                                                                                            |               |  Gradio  | [Hugging Face Agent Course](https://huggingface.co/datasets/agents-course/course-images/resolve/main/en/unit0/time-to-onboard.jpg) |
 | [Predicting Media Channel Sales Using Deep Learning with Tensorflow and Keras (end-to-end)](https://github.com/beenlanced/dl_predicting_media_channel_sales)                                                      | AWS-ECS<br>Docker<br>FastAPI<br>GIT<br>Github<br>HTML<br>Jupyter<br>Keras<br>Linux<br>Matplotlib<br>Numpy<br>Pandas<br>Pytest<br>Python<br>Ruff<br>Scikit-learn<br>Tensorflow<br>uv<br>YAML                                                                                                            |     AWS          |  FastAPI  | Cloud Computing<br>CI/CD (Github Actions)<br>Containerization<br>Data Validation<br>Deep Learning<br>Error Handling<br>Linting<br>Model Registry<br>Model/Data Monitoring<br>Data Validation<br>Type Hinting |
 | [Retrieval Augmented Generation (RAG) Q&A Mechanism to Access User Guide Information - Loving My 2010 iPod Shuffle](https://github.com/beenlanced/ai_rag_user_guide)                                                      | ChatOllama<br>Deep Learning<br>FAISS<br>Github<br>Hugging Face<br>Jupyter<br>LangChain<br>Llama3.2<br>NLP<br>Prompt Engineering<br>Pypdf<br>Python<br>RAG<br>Streamlit<br>Transfer Learning<br>uv                                                                                                            |               |  Streamlit  | AI RAG LLM Learning Module |
 | [Building a LSTM Neural Network Using PyTorch](https://github.com/beenlanced/ltsm_project_pytorch)                                                      | Deep Learning<br>Github<br>Jupyter<br>Lightning<br>Long Short-Term Memory (LSTM)<br>Python<br>PyTorch<br>TensorBoard<br>TensorFlow<br>uv                                                                                                            |               |    | Learning Module |
