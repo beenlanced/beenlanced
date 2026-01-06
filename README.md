@@ -50,7 +50,7 @@ I'm a data scientist, innovator, and researcher who enjoys cooking up data magic
 
 - `Data Engineering:` Elasticsearch, Redis, SQL(MySQL, PostgreSQL, Snowflake), Supabase
 
-- `Deep Learning (DL):` Convolutional Neural Networks (CNNs), Diffusion Models, Fine-Tuning, Generative Adversarial Networks, (GANs), Latent Space, Long Short-Term memory (LSTM), Model Compression (Knowledge Distillation, Pruning, and Quantization), Recurrent Neural Networks (RNNs), Transformers
+- `Deep Learning (DL):` Convolutional Neural Networks (CNNs), Diffusion Models, Fine-Tuning, Generative Adversarial Networks, (GANs), Latent Space, Long Short-Term memory (LSTM), Model Compression (Knowledge Distillation, Pruning, and Quantization), Recurrent Neural Networks (RNNs), Reinforcement Learning (RL), Transformers
 
 - `Development Operations (DevOps):` Coverage, Continuous Integration/ Continuous Deployment (CI/CD), Julia Testing, Linux, Pytest, Ruff, uv
 
